@@ -23,6 +23,9 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 [![Email](https://img.shields.io/badge/Email-%23444444.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cneizer@charlotte.edu)
 
 
+
+
+The go-to playlist getting me through
 [![Playlist Cover](https://raw.githubusercontent.com/courtneygraceneizer/courtneygraceneizer/main/Screenshot%202025-03-19%20120347.png?raw=true)](https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73)
 
 
