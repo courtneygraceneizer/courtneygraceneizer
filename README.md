@@ -10,7 +10,7 @@
  
  💻 Currently working on: Honors Thesis – Predicting Protein Contributions to Carbon Fixation in Freshwater Microbes using statistical & ML methods! 
  
- 🧠 Interests: Computational Genomics | Data Science | Global Health    
+ 🧠 Interests & Passions (working on them lol): Computational Genomics | Data Science | Global Health | 🚲 Indoor Cycling Addict | To be continued...
      
 The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/thesteministblog/)
 
