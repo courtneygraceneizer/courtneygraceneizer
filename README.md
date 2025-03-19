@@ -1,9 +1,6 @@
 ## Hi there , I'm Courtney-Grace👋! 
 
-<!--
-**courtneygraceneizer/courtneygraceneizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 🔗 Check out my...  
+🔗 Check out my...  
 💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
 ---
 
@@ -26,6 +23,4 @@
 📝 Developed an AI-powered web application for **automated environmental issue detection**. Showcased at **Davidson College's 2024 Hackathon**.  
 
 ---
-
-🚀 **Always learning. Always exploring.**  
 
