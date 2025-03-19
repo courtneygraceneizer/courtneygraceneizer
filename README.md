@@ -1,7 +1,5 @@
 ## Hi there , I'm Courtney-Grace👋! 
 
-🔗 Check out my...  
-💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
 ---
   🔗 Check out my...  
 💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
