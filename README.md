@@ -18,9 +18,9 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 
 ### 📨 Let's Connect! Feel free to reach out here!:
 
-[![Instagram](https://img.shields.io/badge/Instagram-Gray?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesteministblog) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/courtney-graceneizer) 
-[![Gmail](https://img.shields.io/badge/Email-DarkSlateGray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cneizer@charlotte.edu)
+[![Instagram](https://img.shields.io/badge/Instagram-%23808080.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesteministblog) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23212121.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/courtney-graceneizer) 
+[![Email](https://img.shields.io/badge/Email-%23444444.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cneizer@charlotte.edu)
 
 
 
