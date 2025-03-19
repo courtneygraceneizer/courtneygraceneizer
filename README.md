@@ -3,7 +3,8 @@
 🔗 Check out my...  
 💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
 ---
-
+  🔗 Check out my...  
+💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
  🔬 Featured Projects  
 
 🦠 Surface Microbiome Analysis – PreMiEr ERC  
