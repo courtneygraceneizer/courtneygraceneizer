@@ -7,7 +7,8 @@
 
 
  🔬 Featured Projects  
- 
+ 💻 Currently working on: Surface microbiome analysis & bioinformatics research  
+     Interests: Computational Genomics | Data Science | Global Health    
 
 
 ---
