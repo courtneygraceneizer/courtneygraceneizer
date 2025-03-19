@@ -2,9 +2,10 @@
 
 ---
   🔗 Check out my...  
-💾 [Active Projects](https://github.com/courtneygraceneizer/portfolio)  
- 🔬 Featured Projects  
+💾 [Active Projects](https://github.com/courtneygraceneizer?tab=repositories)  
 
+ 🔬 Featured Projects  
+ 
 🦠 Surface Microbiome Analysis – PreMiEr ERC  
 📌 [GitHub Repository](https://github.com/courtneygraceneizer/PreMiEr_Surface_Microbiome_Analysis) *(Coming Soon!)*  
 📝 Conducting surface microbiome sampling in built environments to assess microbial diversity across high-contact surfaces. Documenting metadata and preparing collected samples for DNA extraction and sequencing.  
