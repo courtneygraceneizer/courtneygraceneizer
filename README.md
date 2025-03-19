@@ -24,6 +24,10 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 
 
 
+
+
+
+
 <a href="https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73" target="_blank" style="text-decoration: none; color: inherit;">
   <div style="position: relative; display: inline-block; text-align: center;">
     <img src="https://raw.githubusercontent.com/courtneygraceneizer/courtneygraceneizer/main/Screenshot%202025-03-19%20120347.png?raw=true" width="250" height="250" style="border-radius: 10px;">
