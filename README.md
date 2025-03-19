@@ -23,7 +23,7 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 [![Email](https://img.shields.io/badge/Email-%23444444.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cneizer@charlotte.edu)
 
 
-[![My Spotify Playlist](https://raw.githubusercontent.com/courtneygraceneizer/portfolio/main/spotify-cover.png)](https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73)
+[![My Spotify Playlist](https://raw.githubusercontent.com/courtneygraceneizer/courtneygraceneizer/main/spotify-cover.png)](https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73)
 
 
 
