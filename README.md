@@ -25,8 +25,15 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 
 
 
-The go-to playlist getting me through
-[![Playlist Cover](https://raw.githubusercontent.com/courtneygraceneizer/courtneygraceneizer/main/Screenshot%202025-03-19%20120347.png?raw=true)](https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73)
+<a href="https://open.spotify.com/playlist/5kFnYQzKtNiL62z58SavvL?si=c83db8bc53454e73" target="_blank">
+  <div style="position: relative; display: inline-block; text-align: center;">
+    <img src="https://raw.githubusercontent.com/courtneygraceneizer/courtneygraceneizer/main/Screenshot%202025-03-19%20120347.png?raw=true" width="250" height="250" style="border-radius: 10px;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.6); color: white; padding: 5px 10px; border-radius: 5px;">
+       The Playlist Getting Me Through 
+    </div>
+  </div>
+</a>
+
 
 
 
