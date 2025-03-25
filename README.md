@@ -2,7 +2,7 @@
 
 ---
   🔗 Check out my...  
-📂 [Portfolio](https://github.com/courtneygraceneizer?tab=portfolio)  
+📂 [Portfolio](https://github.com/courtneygraceneizer/portfolio)  
 💾 [Active Projects](https://github.com/courtneygraceneizer?tab=repositories)  
 
 
