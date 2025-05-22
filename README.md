@@ -8,7 +8,7 @@
 
  🔬 Featured Projects  
  
- 💻 Currently working on: Honors Thesis – Predicting Protein Contributions to Carbon Fixation in Freshwater Microbes using statistical & ML methods! 
+ 💻 Currently working on: In the space between what I've studied and what I'll build.
  
  🧠 Interests & Passions: Computational Genomics | Data Science | Global Health | 🚲 Indoor Cycling Addict | To be continued lol...
      
@@ -20,7 +20,7 @@ The STEMinist Blog [(Currently Being Updated!)](https://www.instagram.com/theste
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23808080.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesteministblog) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23212121.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/courtney-graceneizer) 
-[![Email](https://img.shields.io/badge/Email-%23444444.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cneizer@charlotte.edu)
+[![Email](https://img.shields.io/badge/Email-%23444444.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:courtney7273@cgmail.com)
 
 
 
